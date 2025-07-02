@@ -34,7 +34,7 @@ This platform allows:
 ### Database
 - **Oracle 19c**
 
-## 🏗 Modules
+##  Modules
 
 - **Authentication & Authorization**: JWT login/registration with customer and admin roles
 - **Books**:
